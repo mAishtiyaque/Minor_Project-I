@@ -1,4 +1,34 @@
-# Image-Caption-Generator-Using-Deep-Learning
+
+<h2>Project Details </h2>
+
+<table border="0">
+ <tr>
+    <td>Report Number </td>
+    <td>Minor Project (CS6490)/37</td>
+ </tr>
+ <tr>
+    <td>Title Of Project </td>
+    <td>IMAGE CAPTION 
+GENERATION using Deep 
+Learning</td>
+ </tr>
+ <tr>
+    <td>Author(s)</td>
+    <td>
+      <ul>
+        <li>Md Ishtiyaque Ahmad</li>
+        <li>Kundan Kumar</li>
+        <li>Riyasha Jaiswa</li>
+      </ul>
+    </td>
+ </tr>
+ <tr>
+    <td>Organizing Unit </td>
+    <td>NIT PATNA</td>
+ </tr>
+</table>
+
+# IMAGE CAPTION GENERATION using Deep Learning
 <p>A Deep Neural Network based generative model for captioning images using CNN and LSTM with Greedy Search..</p>
 <p>Automatically generates captions for an image using CNN and NLP. Model was trained on Flickr8K dataset.</p>
 
@@ -20,10 +50,13 @@
   <li>PIL</li>
 </ul>
 
-<h2>Examples </h2>
-<img src = "/result/r1.png">
-<img src = "/result/r2.png">
-<img src = "/result/r3.png">
-<img src = "/result/r4.png">
+<h2>Results </h2>
+
 <img src = "/result/r5.png">
 <img src = "/result/r6.png">
+<img src = "/result/r3.png">
+<img src = "/result/r4.png">
+<img src = "/result/r1.png">
+
+
+
