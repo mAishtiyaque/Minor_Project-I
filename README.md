@@ -18,7 +18,7 @@ Learning</td>
       <ul>
         <li>Md Ishtiyaque Ahmad</li>
         <li>Kundan Kumar</li>
-        <li>Riyasha Jaiswa</li>
+        <li>Riyasha Jaiswal</li>
       </ul>
     </td>
  </tr>
