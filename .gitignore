@@ -1,0 +1,14 @@
+/Flickr8k_Dataset
+/Flickr8k_text
+/GUI
+/images
+*.py
+image-caption-30k-2.73.h5
+image-caption-30k-?.h5
+image-caption-30k-39.h5
+inception_v3_weights_tf_dim_ordering_tf_kernels.h5
+
+# Ignore pkl file
+*.pkl
+*.h5
+!my-cap.h5
